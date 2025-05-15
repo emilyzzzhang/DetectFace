@@ -1,0 +1,9 @@
+# Ignore build artifacts
+/build/
+/CMakeFiles/
+/Makefile
+/CMakeCache.txt
+/*.o
+/*.out
+/*.log
+/*.user
